@@ -1,10 +1,7 @@
-# Embedded-Linux-Diploma-Tasks-Solution
+# Snapshots
+![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/System-Call-Interface-Task/ls.png)
 
-### This Repo is for documenting/Saving my solutions for the Embedded Linux Diploma.
+![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/System-Call-Interface-Task/ps.png)
 
-### For each Module I will make a branch and for each task inside the module I will be hyperlinking a branch link by the name of the task. 
+![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/System-Call-Interface-Task/cd.png)
 
----
-
-### Linux Fundamentals Module
-1. **[Linux System Architecture Task](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/tree/Linux-System-Architecture-Task)** 
