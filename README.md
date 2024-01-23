@@ -19,7 +19,7 @@
 #### Now let us play a little bit with the kernel and change the priority of the task one time with the lowest priority possible and second time with the highest priority possible
 #### Lowest priority possible using ` $sudo renice -n -20 -p 29317 `
 ![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/Process-Management-Stack-Task/renice%20-20.png)
-There is no big difference here , The difference we will see in assigning it higest priority. The user space cpu percentage will reduce a lot and all the load will by on the system to handle the high prioriy task. 
+There is no big difference here , The difference we will see in assigning it higest priority. The user space cpu percentage will reduce a lot and all the load will by on the system to handle the high prioriy task using ` $sudo renice -n 19 -p 29317 `
 ![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/Process-Management-Stack-Task/renice%2019.png)
 
 ---
