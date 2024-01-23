@@ -26,6 +26,7 @@ There is no big difference here , The difference we will see in assigning it hig
 
 #### Now we will kill the process using ` $kill -SIGKILL 29317 `
 ![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/Process-Management-Stack-Task/sigkill.png)
+![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/Process-Management-Stack-Task/killed.png)
 #### Now as you can see the process "dd" is killed in the top monitor and the using percentage over the cores are similar. 
 ![](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/blob/Process-Management-Stack-Task/after%20killing.png)
 
