@@ -1,5 +1,5 @@
-    #### What does kernel mean ?
-    ##### Kernel is the core of the operating system , It the component that have the scheduler inside it that schedules the processes running in the operating system. You can think of it that is the bridge between the software ( Applications ) running on the operating system and the resources you have as a hardware (CPU & Memory for example) . 
+#### What does kernel mean ?
+##### Kernel is the core of the operating system , It the component that have the scheduler inside it that schedules the processes running in the operating system. You can think of it that is the bridge between the software ( Applications ) running on the operating system and the resources you have as a hardware (CPU & Memory for example) . 
     
     What does Operating System mean?
     Is Linux a kernel OR operating system?
