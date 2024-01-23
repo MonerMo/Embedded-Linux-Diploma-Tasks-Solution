@@ -7,4 +7,5 @@
 ---
 
 ### Linux Fundamentals Module
-1. **[Linux System Architecture Task](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/tree/Linux-System-Architecture-Task)** 
+1. **[Linux System Architecture Task](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/tree/Linux-System-Architecture-Task)**
+2. **[System Call Interface Task](https://github.com/MonerMo/Embedded-Linux-Diploma-Tasks-Solution/tree/System-Call-Interface-Task)**
