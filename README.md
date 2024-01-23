@@ -22,20 +22,24 @@
 #### Q8/ Identify the Purpose for each Layer.
 ##### Ans/ 
 ##### (1)System Call Layer : A set of functions (System Calls) that are used by the user-space to request resources/services from the kernel space. 
-##### (2)
+##### (2)Process Management Layer : Simply it is the scheduler which manage the computing resources given to each process taking care of the priority of the process and making it fair and efficient for competing processes. 
+##### (3)File System Layer : Manages file systems, including file creation, deletion, and manipulation . Also it have VFS which is an abstraction layer that help the system to operate and deal with different file systems. 
+##### (4)Networking Layer : Responsible for managing Network related functionalities , Network device drivers and can communciate with TCP/IP & UDP protocols and much more networking related operations. 
+##### (5)Security Layer : Implements various security features and mechanisms, including access control, permissions, and security modules.
 
 #### Q9/ Identify how each layer interacts with the lower one.
 ##### Ans/ 
 
 #### Q10/ What is Glibc Library ?
-##### Ans/ 
+##### Ans/ Glibc Library is a library that provides a set of functions which you can use in your application development that can help you communicate with the kernel module , each Glibc function calls many system calls under it. 
 
 #### Q11/ What does command mean ?
-##### Ans/ 
+##### Ans/ A Command is a directory path given to the computer and in this path is the binary execution file (script) that do a specific task. 
     
 #### Q12/ Describe command in-terms of the following:
-        name.
-        Location.
-        version
-        input
-        output
+##### Ans/ ls  
+#####    name: List all 
+#####    Location: /usr/bin/ls (using $which ls)
+#####    version: 8.30 (using $ls --version)
+#####    input: You can input the path of the directory you want to list its files or also you can give -(option) as an input for a specific view of the output.
+#####    output: Lists all of the files inside a directory with data of creation and last modification + owner & file type. 
